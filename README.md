@@ -103,17 +103,29 @@ developer:
 </tr>
 </table>
 
-## `04` // GITHUB ANALYTICS
+## `04` // GITHUB TELEMETRY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tiendat1-cmy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1" />
+<a href="https://github.com/tiendat1-cmy">
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api?username=tiendat1-cmy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071521&title_color=22D3EE&icon_color=67E8F9&text_color=CDECF5"
+    alt="GitHub Statistics" />
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tiendat1-cmy&theme=tokyonight&hide_border=true&background=09090F&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" />
+<a href="https://github.com/tiendat1-cmy">
+  <img height="180"
+    src="https://streak-stats.demolab.com?user=tiendat1-cmy&theme=tokyonight&hide_border=true&background=071521&ring=22D3EE&fire=67E8F9&currStreakLabel=22D3EE"
+    alt="GitHub Streak" />
+</a>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendat1-cmy&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=22D3EE" />
+<a href="https://github.com/tiendat1-cmy">
+  <img width="55%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tiendat1-cmy&layout=compact&theme=tokyonight&hide_border=true&bg_color=071521&title_color=22D3EE&text_color=CDECF5&langs_count=8"
+    alt="Top Languages" />
+</a>
 
 </div>
 
