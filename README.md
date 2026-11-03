@@ -1,16 +1,180 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- DAT.DEV | CYBERPUNK DEVELOPER PROFILE -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!--
-**tiendat1-cmy/tiendat1-cmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:06B6D4&height=220&section=header&text=DAT.DEV&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20IN%20PROGRESS&descSize=18&descAlignY=58" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Nguyen+Tien+Dat+%F0%9F%91%8B;IT+Student+at+PTIT+%F0%9F%8E%93;Building+Real+World+Applications+%F0%9F%9A%80;Learning+Backend+%26+System+Design;Turning+Ideas+Into+Working+Software" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tiendat1-cmy&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/tiendat1-cmy?style=for-the-badge&color=7C3AED&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/tiendat1-cmy?style=for-the-badge&color=F59E0B&label=TOTAL+STARS" />
+
+</div>
+
+---
+
+## `01` // SYSTEM PROFILE
+
+```yaml
+developer:
+  name: "Nguyen Tien Dat"
+  alias: "DatDev"
+  location: "Vietnam 🇻🇳"
+  education: "PTIT - Information Technology"
+  role: "Software Engineering Student"
+  focus:
+    - Backend Development
+    - Full-Stack Engineering
+    - Database Design
+    - Software Architecture
+  currently_learning:
+    - Python
+    - FastAPI
+    - JavaScript
+    - MySQL
+    - Git & GitHub
+  objective: "Become a professional Software Engineer"
+  status: "Always learning, always building"
+```
+
+> I don't just want to write code. I want to understand how software works, why it works, and how to build it better.
+
+## `02` // TECH ARSENAL
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
+### BACKEND & FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" />
+
+### DATABASE & STORAGE
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+
+</div>
+
+## `03` // FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 Bear Charged POS
+
+**Point of Sale & Inventory Management**
+
+- Product management
+- Customer management
+- Invoice processing
+- Authentication & authorization
+- Barcode integration
+
+`Python` `FastAPI` `SQLAlchemy` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ Football Field Booking
+
+**Online Football Field Reservation**
+
+- Online field booking
+- User registration & login
+- Booking management
+- Admin dashboard
+- Backend API integration
+
+`HTML` `CSS` `JavaScript` `FastAPI` `MySQL`
+
+</td>
+</tr>
+</table>
+
+## `04` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tiendat1-cmy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tiendat1-cmy&theme=tokyonight&hide_border=true&background=09090F&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiendat1-cmy&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=22D3EE" />
+
+</div>
+
+## `05` // CAREER QUEST
+
+```text
+[CURRENT]  SOFTWARE ENGINEERING STUDENT
+    |
+    +-- Learning programming fundamentals
+    |
+    +-- Building practical web applications
+    |
+    +-- Understanding backend & databases
+    |
+    +-- Improving problem-solving skills
+    |
+[NEXT]     BACKEND / FULL-STACK INTERN
+    |
+    +-- Build production-ready projects
+    +-- Learn system design
+    +-- Collaborate with development teams
+    |
+[GOAL]     SOFTWARE ENGINEER 🚀
+```
+
+## `06` // CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/tiendat1-cmy/tiendat1-cmy/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+## `07` // CURRENT MISSIONS
+
+- [x] Start building real-world software projects
+- [x] Learn Python and FastAPI
+- [ ] Improve Data Structures & Algorithms
+- [ ] Master backend development
+- [ ] Improve database optimization
+- [ ] Prepare for Software Engineer Internship
+- [ ] Build and deploy production-ready applications
+
+## `08` // ESTABLISH CONNECTION
+
+<div align="center">
+
+<a href="https://github.com/tiendat1-cmy">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+### `BUILD. LEARN. IMPROVE. REPEAT.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090F&height=120&section=footer" />
+
+</div>
